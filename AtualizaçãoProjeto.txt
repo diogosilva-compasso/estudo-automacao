@@ -1,2 +1,1 @@
-"HelloGit ;)"
 "Atualização projeto fixação gitflow"
